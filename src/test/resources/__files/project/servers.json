@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "name": "staging",
+    "server_url": "http://localhost:8089/projects/project-hash-id/servers/1/status?auth_token=valid-token"
+  }
+]

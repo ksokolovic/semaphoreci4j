@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/projects/project-hash-id/servers/1/deploys/2/log?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "deploy/deploy-log.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

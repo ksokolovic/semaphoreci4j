@@ -1,0 +1,12 @@
+{
+  "request": {
+    "method": "POST",
+    "url": "/projects/project-hash-id/1428889/build?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "threads": [
+    {
+      "number": 1,
+      "commands": [
+        {
+          "name": "./gradlew clean",
+          "result": "0",
+          "output": "Downloading https://services.gradle.org/distributions/gradle-2.13-all.zip\r\n...........................................\r\n",
+          "start_time": "2017-12-27T15:17:11Z",
+          "finish_time": "2017-12-27T15:17:21Z",
+          "duration": "00:10"
+        },
+        {
+          "name": "./gradlew test",
+          "result": "0",
+          "output": "<span class=\"\">&gt; Loading&gt; Loading &gt; settings&gt; Configuring&gt; Configuring &gt; ....\r\n</span>",
+          "start_time": "2017-12-27T15:17:21Z",
+          "finish_time": "2017-12-27T15:17:32Z",
+          "duration": "00:11"
+        }
+      ]
+    }
+  ],
+  "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/35?auth_token=valid-token"
+}

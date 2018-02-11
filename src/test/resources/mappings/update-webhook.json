@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "PUT",
+    "url": "/projects/project-hash-id/hooks/1?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "webhook/update.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

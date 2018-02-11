@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/projects/project-hash-id/servers/1?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "server/deploys.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

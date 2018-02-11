@@ -1,0 +1,14 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/projects/project-hash-id/1428889?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "build/builds-pg1.json",
+    "headers": {
+      "Content-Type": "application/json",
+      "Pagination": "{\"total_entries\": 35,\"total_pages\": 2,\"per_page\": 20,\"current_page\": 1,\"first_page\": true,\"last_page\": false,\"previous_page\": null,\"next_page\": 2}"
+    }
+  }
+}

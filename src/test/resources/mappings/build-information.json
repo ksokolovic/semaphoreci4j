@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/projects/project-hash-id/1428889/builds/35?auth_token=valid-token"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "build/build-information.json",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

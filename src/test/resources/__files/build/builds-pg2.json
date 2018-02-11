@@ -1,0 +1,144 @@
+{
+  "branch_name": "develop",
+  "branch_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop",
+  "branch_status_url": "http://localhost:8089/projects/project-hash-id/1428889/status?auth_token=valid-token",
+  "branch_history_url": "http://localhost:8089/projects/project-hash-id/1428889?auth_token=valid-token",
+  "project_name": "semaphoreci4j",
+  "builds": [
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/15",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/15?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/15/log?auth_token=valid-token",
+      "build_number": 15,
+      "result": "passed",
+      "started_at": "2017-11-03T17:42:42+01:00",
+      "finished_at": "2017-11-03T17:44:44+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/14",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/14?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/14/log?auth_token=valid-token",
+      "build_number": 14,
+      "result": "passed",
+      "started_at": "2017-11-02T22:43:57+01:00",
+      "finished_at": "2017-11-02T22:45:29+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/13",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/13?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/13/log?auth_token=valid-token",
+      "build_number": 13,
+      "result": "failed",
+      "started_at": "2017-11-02T21:56:02+01:00",
+      "finished_at": "2017-11-02T21:57:36+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/12",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/12?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/12/log?auth_token=valid-token",
+      "build_number": 12,
+      "result": "passed",
+      "started_at": "2017-11-02T15:33:46+01:00",
+      "finished_at": "2017-11-02T15:35:11+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/11",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/11?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/11/log?auth_token=valid-token",
+      "build_number": 11,
+      "result": "passed",
+      "started_at": "2017-11-01T15:54:02+01:00",
+      "finished_at": "2017-11-01T15:55:26+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/10",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/10?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/10/log?auth_token=valid-token",
+      "build_number": 10,
+      "result": "passed",
+      "started_at": "2017-11-01T14:59:00+01:00",
+      "finished_at": "2017-11-01T15:00:38+01:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/9",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/9?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/9/log?auth_token=valid-token",
+      "build_number": 9,
+      "result": "passed",
+      "started_at": "2017-10-08T20:48:17+02:00",
+      "finished_at": "2017-10-08T20:49:19+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/8",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/8?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/8/log?auth_token=valid-token",
+      "build_number": 8,
+      "result": "passed",
+      "started_at": "2017-08-17T22:06:19+02:00",
+      "finished_at": "2017-08-17T22:07:52+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/7",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/7?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/7/log?auth_token=valid-token",
+      "build_number": 7,
+      "result": "passed",
+      "started_at": "2017-08-16T21:16:33+02:00",
+      "finished_at": "2017-08-16T21:18:25+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/6",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/6?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/6/log?auth_token=valid-token",
+      "build_number": 6,
+      "result": "passed",
+      "started_at": "2017-08-11T20:45:34+02:00",
+      "finished_at": "2017-08-11T20:46:49+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/5",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/5?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/5/log?auth_token=valid-token",
+      "build_number": 5,
+      "result": "failed",
+      "started_at": "2017-08-07T16:19:19+02:00",
+      "finished_at": "2017-08-07T16:21:02+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/4",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/4?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/4/log?auth_token=valid-token",
+      "build_number": 4,
+      "result": "passed",
+      "started_at": "2017-08-07T16:04:00+02:00",
+      "finished_at": "2017-08-07T16:05:35+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/3",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/3?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/3/log?auth_token=valid-token",
+      "build_number": 3,
+      "result": "passed",
+      "started_at": "2017-07-22T14:58:07+02:00",
+      "finished_at": "2017-07-22T14:59:21+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/2",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/2?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/2/log?auth_token=valid-token",
+      "build_number": 2,
+      "result": "passed",
+      "started_at": "2017-07-22T14:42:49+02:00",
+      "finished_at": "2017-07-22T14:44:05+02:00"
+    },
+    {
+      "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/1",
+      "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/1?auth_token=valid-token",
+      "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/1/log?auth_token=valid-token",
+      "build_number": 1,
+      "result": "failed",
+      "started_at": "2017-07-22T14:38:10+02:00",
+      "finished_at": "2017-07-22T14:38:36+02:00"
+    }
+  ]
+}

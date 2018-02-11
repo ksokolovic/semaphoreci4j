@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/projects?auth_token=invalid-token"
+  },
+  "response": {
+    "status": 401,
+    "body": "Unauthorized",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}

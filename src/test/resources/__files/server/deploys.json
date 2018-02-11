@@ -1,0 +1,42 @@
+{
+  "server_name": "staging",
+  "server_url": "https://semaphoreci.com/projects/project-hash-id/servers/1",
+  "server_status_url": "http://localhost:8089/projects/project-hash-id/servers/1/status?auth_token=valid-token",
+  "server_history_url": "http://localhost:8089/projects/project-hash-id/servers/1?auth_token=valid-token",
+  "deployment_method": "capistrano",
+  "strategy": "manual",
+  "branch_name": "develop",
+  "project_name": "semaphoreci4j",
+  "deploys": [
+    {
+      "project_name": "semaphoreci4j",
+      "server_name": "staging",
+      "number": 2,
+      "result": "passed",
+      "created_at": "2017-12-26T12:11:23+01:00",
+      "updated_at": "2017-12-26T12:12:34+01:00",
+      "started_at": "2017-12-26T12:11:23+01:00",
+      "finished_at": "2017-12-26T12:12:34+01:00",
+      "html_url": "https://semaphoreci.com/projects/project-hash-id/servers/1/deploys/2",
+      "deploy_url": "http://localhost:8089/projects/project-hash-id/servers/1/deploys/2?auth_token=valid-token",
+      "deploy_log_url": "http://localhost:8089/projects/project-hash-id/servers/1/deploys/2/log?auth_token=valid-token",
+      "build_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/35?auth_token=valid-token",
+      "build_html_url": "https://semaphoreci.com/projects/1/branches/1428889/builds/35"
+    },
+    {
+      "project_name": "semaphoreci4j",
+      "server_name": "staging",
+      "number": 1,
+      "result": "stopped",
+      "created_at": "2017-12-26T12:11:23+01:00",
+      "updated_at": "2017-12-26T12:12:34+01:00",
+      "started_at": "2017-12-26T12:11:23+01:00",
+      "finished_at": "2017-12-26T12:12:34+01:00",
+      "html_url": "https://semaphoreci.com/projects/project-hash-id/servers/1/deploys/1",
+      "deploy_url": "http://localhost:8089/projects/project-hash-id/servers/1/deploys/1?auth_token=valid-token",
+      "deploy_log_url": "http://localhost:8089/projects/project-hash-id/servers/1/deploys/1/log?auth_token=valid-token",
+      "build_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/35?auth_token=valid-token",
+      "build_html_url": "https://semaphoreci.com/projects/1/branches/1428889/builds/35"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+[
+  {
+    "id": 12345,
+    "hash_id": "project-hash-id",
+    "name": "semaphoreci4j",
+    "owner": "devfort",
+    "created_at": "2017-07-22T14:25:45+02:00",
+    "updated_at": "2017-12-27T17:00:11+01:00",
+    "html_url": "https://semaphoreci.com/devfort/semaphoreci4j",
+    "branches": [
+      {
+        "branch_name": "develop",
+        "branch_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop",
+        "branch_status_url": "http://localhost:8089/projects/project-hash-id/1428889/status?auth_token=valid-token",
+        "branch_history_url": "http://localhost:8089/projects/project-hash-id/1428889?auth_token=valid-token",
+        "project_name": "semaphoreci4j",
+        "build_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/35",
+        "build_info_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/35?auth_token=valid-token",
+        "build_log_url": "http://localhost:8089/projects/project-hash-id/1428889/builds/35/log?auth_token=valid-token",
+        "build_number": 35,
+        "result": "stopped",
+        "started_at": "2017-12-27T16:16:49+01:00",
+        "finished_at": "2017-12-27T16:18:01+01:00",
+        "commit": {
+          "id": "e40b991d55909196c01dbbc346256bf27d634feb",
+          "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/e40b991d55909196c01dbbc346256bf27d634feb",
+          "author_name": "Kemal Sokolović",
+          "author_email": "kemal.sokolovic@gmail.com",
+          "message": "Wiremock files structure refactor\n\nBetter organization of the body content files.\n",
+          "timestamp": "2017-11-30T12:44:14+01:00"
+        }
+      }
+    ]
+  }
+]

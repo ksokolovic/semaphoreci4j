@@ -1,0 +1,54 @@
+{
+  "commits": [
+    {
+      "id": "befa122a426295a71e84a2307e643ec622b6eb19",
+      "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/befa122a426295a71e84a2307e643ec622b6eb19",
+      "author_name": "Kemal Sokolović",
+      "author_email": "kemal.sokolovic@gmail.com",
+      "message": "Commit befa122a426295a71e84a2307e643ec622b6eb19 message",
+      "timestamp": "2017-11-30T10:42:01+01:00"
+    },
+    {
+      "id": "b9dca80a9e82cc6aa9ee493a00964456f164cff3",
+      "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/b9dca80a9e82cc6aa9ee493a00964456f164cff3",
+      "author_name": "Kemal Sokolović",
+      "author_email": "kemal.sokolovic@gmail.com",
+      "message": "Commit b9dca80a9e82cc6aa9ee493a00964456f164cff3 message",
+      "timestamp": "2017-11-30T11:04:57+01:00"
+    },
+    {
+      "id": "a3584bb181a83307e816a92e63c23a12c7efeeed",
+      "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/a3584bb181a83307e816a92e63c23a12c7efeeed",
+      "author_name": "Kemal Sokolović",
+      "author_email": "kemal.sokolovic@gmail.com",
+      "message": "Commit a3584bb181a83307e816a92e63c23a12c7efeeed message",
+      "timestamp": "2017-11-30T11:05:37+01:00"
+    },
+    {
+      "id": "45882b9a17116632926cb287354bd1a4676c20d5",
+      "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/45882b9a17116632926cb287354bd1a4676c20d5",
+      "author_name": "Kemal Sokolović",
+      "author_email": "kemal.sokolovic@gmail.com",
+      "message": "Commit 45882b9a17116632926cb287354bd1a4676c20d5 message",
+      "timestamp": "2017-11-30T11:10:32+01:00"
+    },
+    {
+      "id": "3b5f53d0d145f9dab634d979da97c8fc69ea046f",
+      "url": "https://bitbucket.org/devfort/semaphoreci4j/commits/3b5f53d0d145f9dab634d979da97c8fc69ea046f",
+      "author_name": "Kemal Sokolović",
+      "author_email": "kemal.sokolovic@gmail.com",
+      "message": "Commit 3b5f53d0d145f9dab634d979da97c8fc69ea046f message",
+      "timestamp": "2017-11-30T12:44:14+01:00"
+    }
+  ],
+  "project_name": "semaphoreci4j",
+  "branch_name": "develop",
+  "number": 35,
+  "result": "stopped",
+  "created_at": "2017-12-27T16:16:43+01:00",
+  "updated_at": "2017-12-27T16:18:10+01:00",
+  "started_at": "2017-12-27T16:16:49+01:00",
+  "finished_at": "2017-12-27T16:18:01+01:00",
+  "html_url": "https://semaphoreci.com/devfort/semaphoreci4j/branches/develop/builds/35",
+  "build_log_url": "http://localhost:8089/projects/5db28f4d-905f-43ac-946d-1b3cfbfede30/1428889/builds/35/log?auth_token=VPGdb6fWBH2STTxynza-"
+}

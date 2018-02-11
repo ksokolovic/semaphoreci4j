@@ -1,0 +1,7 @@
+[
+  {
+    "id": 1,
+    "url": "http://www.google.com",
+    "hook_type": "post_build"
+  }
+]
