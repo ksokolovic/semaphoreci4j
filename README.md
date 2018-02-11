@@ -47,7 +47,7 @@ At the top level you can list your projects, which are returned as a map of proj
 Map<String, Project> projects = semaphoreCI.getProjects();
 ```
 
-Alternatively, you can request for a specific project by its name, using the `getProject("project-name");` method of the `SemaphoreCI` class. 
+Alternatively, you can request for a specific project by its name, using the `getProject("project-name")` method of the `SemaphoreCI` class. 
 
 The `Project` instance will in turn allow you to access all the relevant information listed above. 
 
@@ -59,6 +59,6 @@ In case you run into any issues while using the library or have a suggestion for
 
 ## License
 
-Copyright (c) Kemal Sokolović <kemal DOT sokolovic AT gmail DOT com>, Miloš Panasiuk <milos DOT panasiuk AT gmail DOT com>
+Copyright (c) Kemal Sokolović [kemal DOT sokolovic AT gmail DOT com], Miloš Panasiuk [milos DOT panasiuk AT gmail DOT com]
 
 Distributed under the [MIT License](http://opensource.org/licenses/MIT)
